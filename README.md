@@ -32,8 +32,8 @@ Train a model with an accuracy score of at least 95% (subject to evaluation of m
 ## Project Structure
 - `main.ipynb`: Jupyter notebook containing the main analysis and model development
 - `requirements.txt`: List of required Python packages
-- `data.csv` : The data file downloaded from Kaggle.
-- `model.joblib` : The exported model, anyone can load it in and make predictions with it automatically.
+- `heart-disease.csv` : The data file downloaded from Kaggle.
+- `heart-disease-model.joblib` : The exported model, anyone can load it in and make predictions with it automatically.
 
 ## Setup and Installation
 1. Clone this repository
